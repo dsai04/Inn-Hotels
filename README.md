@@ -112,7 +112,7 @@ The unrestricted tree memorises the training data (99.4% train vs 87.0% test). T
 | File | Description |
 |---|---|
 | `Inn_Hotels_Group.ipynb` | Full analysis: EDA, logistic regression, four decision trees |
-| `INN_Hotels_Group.pdf` | Business report with charts and results |
+| `INNHotelsGroup.csv` | Data File |
 | `README.md` | This file |
 
 ## How to run
